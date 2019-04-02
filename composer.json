@@ -1,0 +1,21 @@
+{
+    "name": "power-rangers-all-stars-hack/power-rangers-all-stars-hack-mod-apk-get-unlimited-crystals",
+    "description": "Power Rangers: All Stars Hack Mod APK Get Unlimited Crystals Cheats Generator IOS & Android",
+
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ClICK HERE to HACK Power Rangers: All Stars",
+            "homepage": "http://bit.ly/2zeuRRZ",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+   
+    "minimum-stability": "dev"
+}
